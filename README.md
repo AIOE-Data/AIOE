@@ -2,7 +2,7 @@
 
 This repository contains the data files produced by the project "Occupational, Industry, and Geographic Exposure to Artificial Intelligence: A Novel Dataset and Its Potential Uses" by Felten, Raj, and Seamans. 
 
-The following briefly describes the datasets contained in the excel file "AIOE_DataAppendix.xlsx". For more information regarding the construction of the datasets, please see the draft, currently located here: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368605
+The following briefly describes the datasets contained in the excel file "AIOE_DataAppendix.xlsx". For more information regarding the construction of the datasets, please see the draft, currently located here: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822412
  
 Data Appendix A: AIOE Scores by Occupation. Contains the constructed AIOE scores by occupation indexed by six-digit SOC code.
 
