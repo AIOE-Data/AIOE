@@ -14,5 +14,6 @@ Data Appendix D: AI Application-Occupational Ability Matrix. Contains the applic
 
 Data Appendix E: Standardized Ability-Level AI Exposure. Contains the standardized ability-level exposure to AI constructed by aggregating exposure across applications within ability.
 
+The files within the input folder contain the code and underlying files that construct the data in the Data Appendix. 
 
 For  questions and comments regarding the datasets, please feel free to reach out at mraj@stern.nyu.edu or rseamans@stern.nyu.edu.
