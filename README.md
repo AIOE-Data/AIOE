@@ -24,4 +24,4 @@ The files within the input folder contain the code and underlying files that con
 
 In addition, we have added data and code to produce AIOE scores for the generative AI applications of image generation and language modeling.
 
-For  questions and comments regarding the datasets, please feel free to reach out at mraj@stern.nyu.edu or rseamans@stern.nyu.edu.
+For  questions and comments regarding the datasets, please feel free to reach out at manavraj@wharton.upenn.edu or rseamans@stern.nyu.edu.
